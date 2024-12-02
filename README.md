@@ -21,6 +21,7 @@ Este é um aplicativo simples de lista de tarefas (To-Do) desenvolvido para orga
 ## API Utilizada
 
 Usamos o NSTACK que é uma API publica para to-do list, o link da mesma é: https://api.nstack.in/
+
 O Consumo da API está localizado em lib/services/api_services.dart no projeto
 
 ## Como Usar
